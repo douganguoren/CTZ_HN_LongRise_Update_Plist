@@ -1,1 +1,48 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+        <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://220.231.252.128:80/LEAP/Download/default/2016/6/5/d82578a31875471aa912aebcd91a2d2e/_v3_/HNJT_HENAN_IOS.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://220.231.252.128:80/LEAP/KCKP/Web/hnkckp/img/hnlogo.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://220.231.252.128:80/LEAP/KCKP/Web/hnkckp/img/hnlogo.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zdyw.baobao</string>
+                    <key>bundle-version</key>
+                    <string>1.01</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>快处快赔</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
